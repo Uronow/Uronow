@@ -1,7 +1,7 @@
-- Founder Of Tuaxa Scripts
+- Tuaxa Softworks (Scripts) Re-Opened
+- https://discord.gg/JvKWd7UZy2
+- Developer of Tuaxa Softworks
 - tuaxascript.com
-- Developer
-- Curently developing Tuaxa Hub,Seal-Ware,Protector X,Tuc,Tui,Zort Technologies
-- Discord : Tuaxa#9999
+- Tuaxa#2672 (Tuaxa#9999 is old account.)
 
 
